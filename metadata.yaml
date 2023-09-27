@@ -1,0 +1,40 @@
+_repo: French-enterprise-in-Africa-the-personal-narrative-of-Lieut-Hourst-of-his-exploration-of-the-__71649
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Nancy
+    - Bell, Nancy R. E. Meugens
+    - Bell, Mrs. Arthur
+    - Bell, Mrs. Arthur G.
+    - D'Anvers, N. (Nancy)
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+    wikipedia: https://en.wikipedia.org/wiki/Nancy_Bell_(author)
+creator:
+  author:
+    agent_name: Hourst, Émile Auguste Léon
+    gutenberg_agent_id: '56313'
+    url: http://www.gutenberg.org/2009/agents/56313
+description: ''
+gutenberg_issued: '2023-09-14'
+identifiers:
+  gutenberg: '71649'
+language: en
+pgterms:marc904: https://archive.org/details/frenchenterprise00hour
+pgterms:marc905: 20230904235409hourst
+pgterms:marc906: '1898'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bChapman & Hall, Ld., $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'French enterprise in Africa: the personal narrative of Lieut. Hourst of his
+  exploration of the Niger'
+url: http://www.gutenberg.org/ebooks/71649
