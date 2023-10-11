@@ -13,12 +13,17 @@ contributor:
     gutenberg_agent_id: '1165'
     url: http://www.gutenberg.org/2009/agents/1165
     wikipedia: https://en.wikipedia.org/wiki/Nancy_Bell_(author)
+covers:
+- cover_type: archival
+  image_path: 71649-h/images/cover.jpg
 creator:
   author:
     agent_name: Hourst, Émile Auguste Léon
     gutenberg_agent_id: '56313'
     url: http://www.gutenberg.org/2009/agents/56313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71649#French-enterprise-in-Africa-the-personal-narrative-of-Lieut-Hourst-of-his-exploration-of-the-_
 gutenberg_issued: '2023-09-14'
 identifiers:
   gutenberg: '71649'
